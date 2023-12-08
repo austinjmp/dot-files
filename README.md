@@ -1,2 +1,2 @@
-# tmux
-Tmux configuraion and plugins
+# dot files 
+- tmux config
